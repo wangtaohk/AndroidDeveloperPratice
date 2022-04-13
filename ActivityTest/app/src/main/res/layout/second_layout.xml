@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/butPutData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="数据传递" />
+
+    <Button
+        android:id="@+id/butRequestData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="返回数据" />
+
+    <Button
+        android:id="@+id/butOpenThirdActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="打开活动三" />
+</LinearLayout>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/butToast"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="登陆" />
+
+    <Button
+        android:id="@+id/butBack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="退出" />
+
+    <Button
+        android:id="@+id/butNewActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="跳转新活动" />
+
+    <Button
+        android:id="@+id/butReturnData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="返回数据" />
+
+    <Button
+        android:id="@+id/butStandard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="标准启动模式" />
+</LinearLayout>

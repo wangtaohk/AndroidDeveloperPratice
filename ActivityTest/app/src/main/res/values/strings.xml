@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivityTest</string>
+    <string name="toast_add">you clicked Add</string>
+    <string name="toast_remove">you clicked remove</string>
+</resources>
